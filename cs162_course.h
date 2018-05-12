@@ -46,7 +46,7 @@ class course
        //Place the rest of the data members here:
         
        char courseDesig[SIZE];
-       char crn[SIZE];
+       int crn;
        int section;
 
 };
